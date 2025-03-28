@@ -3,6 +3,6 @@
   "symbol": "USDT",
   "decimals": 6,
   "description": "Tetheer USDT is a stablecoin pegged 1:1 to the US Dollar, built for secure and decentralized transactions across the Ethereum blockchain. It simulates the behavior of Tether (USDT) with additional owner-controlled governance capabilities.",
-  "website": "https://www.tetheerusdt.com", "https://www.tetheerusdt.xyz",
+  "website": "https://www.tetheerusdt.com",
   "logoURI": "ipfs://bafkreiaprnw3mdinubt3nhomjtgcssmi3ncywjtavn5tk6n3fiaj6j5fam"
 }
